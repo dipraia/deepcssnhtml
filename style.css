@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+  background-image: linear-gradient(to right, #017D64, #00474B);  
+}
+
+main {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  width: 950px;
+  margin: auto;
+  box-shadow: 12px 10px 13px rgba(25, 28, 47, 0.664);
+}
+
+h1 {
+  color: #191C2F;
+  text-align: center;
+  text-shadow: 3px 3px 15px rgba(17, 19, 32, 0.555);
+}
+
+h2 {
+  color: #F5C303;
+  text-align: center;
+  background-image: linear-gradient(to right, #191C2F, #00474B, #017D64);
+  width: 700px;
+  margin: auto;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+p {
+  text-align: justify;
+}
